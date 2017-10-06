@@ -21,7 +21,6 @@ namespace TestFramework
             public static bool IsAt()
             {
                 return Browser.Title == PageTitle;
-                
 
             }
         }
